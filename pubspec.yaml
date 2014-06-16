@@ -1,0 +1,6 @@
+name: connection-test
+version: 0.0.1
+author: Matias Meno
+description: Connection test
+dependencies:
+  google_cloud_datastore: '>=0.3.3 <0.4.0'
